@@ -32,6 +32,8 @@
                 android:layout_height="match_parent"
                 android:id="@+id/myNavigationFragment"
                 android:name="androidx.navigation.fragment.NavHostFragment"
+                app:navGraph="@navigation/navigation"
+                app:defaultNavHost="true"
                 />
         </LinearLayout>
 
