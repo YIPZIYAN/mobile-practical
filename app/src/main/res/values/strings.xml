@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">practical</string>
+    <string name="courseTextLabel">course</string>
+    <string-array name="course_selection">
+        <item>Software Engineering</item>
+        <item>Interactive System</item>
+        <item>Data Science</item>
+        <item>Information Technology</item>
+        <item>Internet Security</item>
+    </string-array>
 </resources>
