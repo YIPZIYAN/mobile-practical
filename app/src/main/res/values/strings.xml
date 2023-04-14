@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">practical</string>
+    <string-array name="courses">
+        <item>JNTM2003</item>
+        <item>AACS1104</item>
+        <item>BMCS3093</item>
+        <item>BMIT3004</item>
+    </string-array>
 </resources>
