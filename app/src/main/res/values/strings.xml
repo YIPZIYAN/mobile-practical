@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">practical</string>
+    <string-array name="code">
+        <item>AACS1234</item>
+        <item>AACS2224</item>
+        <item>AACS3234</item>
+        <item>AACS3233</item>
+    </string-array>
 </resources>
